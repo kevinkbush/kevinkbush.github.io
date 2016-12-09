@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+**kevinb.us** Is a little space where I jot down things and thoughts that may or may not be useful.
