@@ -4,7 +4,7 @@ title: "kevinb"
 title2: ".us" # default: ""
 description: "Nerd Things"
 keywords: "Site Reliability Engineer, SRE, DevOps, System Administration, Cloud, Linux, Automation"
-url: https://kevinkbush.github.io # site url
+url: http://kevinb.us # site url
 baseurl:  null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
