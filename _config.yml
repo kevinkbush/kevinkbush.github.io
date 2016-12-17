@@ -3,7 +3,7 @@
 title: "kevinb"
 title2: ".us" # default: ""
 description: "Nerd Things"
-keywords: "Site Reliability Engineer, SRE, DevOps, System Administration, Cloud, Linux, Automation"
+keywords: "Site Reliability Engineer, SRE, DevOps, System Administration, Cloud, Linux, Automation, Chromebooks, ChromeOS, Philosophy, Hacking, Maker, AI, SciFi, Science Fiction"
 url: https://kevinb.us # site url
 baseurl:  null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Kevin Bush"
-  job      : "Site Reliability Engineer"
-  bio      : "Making the web resiliant while smiling, or at least smirking."
+  job      : "Dad, Husband, Writer, Site Reliability Engineer, Nerd, Philosopher"
+  bio      : "Exploring where Philosophy, Humanity, Automation, and Technology Collide"
   thumb    : /images/author.jpg
   email    : info@kevin.us
   url      : http://kevinb.us
