@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Kevin Bush"
   job      : "Dad, Husband, Writer, Site Reliability Engineer, Nerd, Philosopher"
-  bio      : "Exploring where Philosophy, Humanity, Automation, and Technology Collide"
+  bio      : 
   thumb    : /images/author.jpg
   email    : info@kevin.us
   url      : http://kevinb.us
